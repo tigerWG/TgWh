@@ -1,0 +1,17 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.beidousafe.root</Name>
+  <DisplayName>uav</DisplayName>
+  <Description>Install this app</Description>
+  <Version>1.0.0-1</Version>
+  <ReleaseDate>2020-03-25</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="217180579" CompressedSize="72807115" OS="Any"/>
+  <DownloadableArchives>bin.7z,doc.7z,etc.7z,license.7z,script.7z,content.7z</DownloadableArchives>
+  <SHA1>a6b6261fe26623e537709aefa092f18eedefd55e</SHA1>
+ </PackageUpdate>
+</Updates>
